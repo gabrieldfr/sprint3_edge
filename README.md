@@ -55,5 +55,5 @@ Após ter baixado o arquivo cru, abra o Postman, vá na aba de import e selecion
 
 - Agora clique em "send" e verifique a resposta do Postman
 ![health_check_explicacao_2](https://github.com/gabrieldfr/sprint3_edge/assets/127216244/16fdce7f-f63f-40c4-bb67-855d91a85ce4)
-
-
+## Link para um vídeo explicando os conceitos básicos de IoT:
+https://youtu.be/9eWW2Jw6e-I 
